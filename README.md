@@ -1,6 +1,6 @@
 # Modification to original solution
 
-Instead of ERFNet the SegFormer implementation is used. The implementation is taken from [here](https://github.com/NVlabs/SegFormer?tab=readme-ov-file). It either can be trained using the pipeline provided via link or just pretrained weights can be downloaded either from NVlabs's [sources](https://github.com/NVlabs/SegFormer) or from [here](https://github.com/sithu31296/semantic-segmentation).
+Instead of ERFNet the SegFormer implementation is used. The implementation is taken from [here](https://github.com/NVlabs/SegFormer?tab=readme-ov-file). It either can be trained using the pipeline provided via link or just pretrained weights can be downloaded either from NVlabs's [sources](https://github.com/NVlabs/SegFormer) or from [here](https://github.com/sithu31296/semantic-segmentation). The original framework is [here](https://github.com/dmar-bonn/ipp-ssl).
 
 # Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning
 
